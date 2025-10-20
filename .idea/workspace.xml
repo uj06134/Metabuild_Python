@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7eff1fe8-8d9c-4c9e-b5ab-48d3f7e370db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_dictionary/05_dict_김훈종.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_dictionary/05_dict_김훈종.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,7 @@
       <updated>1760690326657</updated>
       <workItem from="1760690327825" duration="45000" />
       <workItem from="1760690399090" duration="2000" />
-      <workItem from="1760920057928" duration="27388000" />
+      <workItem from="1760920057928" duration="27845000" />
     </task>
     <servers />
   </component>
@@ -104,7 +103,7 @@
     <SUITE FILE_PATH="coverage/Python_khj$02_list.coverage" NAME="02_list Coverage Results" MODIFIED="1760929115881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_리스트" />
     <SUITE FILE_PATH="coverage/Python_khj$02_tuple.coverage" NAME="02_tuple Coverage Results" MODIFIED="1760939072736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_tuple" />
     <SUITE FILE_PATH="coverage/Python_khj$02_dict.coverage" NAME="02_dict Coverage Results" MODIFIED="1760942130061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_dictionary" />
-    <SUITE FILE_PATH="coverage/Python_khj$05_dict_.coverage" NAME="05_dict_김훈종 Coverage Results" MODIFIED="1760951340633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_dictionary" />
+    <SUITE FILE_PATH="coverage/Python_khj$05_dict_.coverage" NAME="05_dict_김훈종 Coverage Results" MODIFIED="1760951871002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_dictionary" />
     <SUITE FILE_PATH="coverage/Python_khj$01_list.coverage" NAME="01_list Coverage Results" MODIFIED="1760926737097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_리스트" />
     <SUITE FILE_PATH="coverage/Python_khj$01_func.coverage" NAME="01_func Coverage Results" MODIFIED="1760946870390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_function" />
     <SUITE FILE_PATH="coverage/Python_khj$06_list_.coverage" NAME="06_list_김훈종 Coverage Results" MODIFIED="1760942928519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_list" />

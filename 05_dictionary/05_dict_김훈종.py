@@ -19,5 +19,15 @@ for name in sorted_name:
     sorted_avg[name] = avg[name]
 
 print(sorted_avg)
-# 각 과목에서 최고점 학생 찾기
+# 각 과목에서 최고점 학생
+top = {}
+for subject in list(score.values())[0]:
+    max_score = 0
+    top_name = ''
+    for name in score:
+        if score[name][subject] > max_score:
+            max_score = score[name][subject]
+            top_name = name
+    top[subject] = top_name
 
+print(top)
