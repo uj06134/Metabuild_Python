@@ -15,15 +15,15 @@ for i in range(len(students)):
     avg = (students[i][1] + students[i][2]) / 2
     students[i].append(avg)
     if avg >= 90:
-        students[i].append('A')
+        grade = "A"
     elif avg >= 80:
-        students[i].append('B')
+        grade = "B"
     elif avg >= 70:
-        students[i].append('C')
+        grade = "C"
     elif avg >= 60:
-        students[i].append('D')
+        grade = "D"
     else:
-        students[i].append('F')
+        grade = "F"
+    students[i].append(grade)
     students.sort()
 print(students)
-
