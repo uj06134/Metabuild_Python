@@ -1,4 +1,4 @@
-fr = open("sungjuk.txt", "r", encoding="utf-8")
+fr = open("file/sungjuk.txt", "r", encoding="utf-8")
 fw = open("sungjuk_result.txt", 'w', encoding="utf-8")
 
 line = fr.readline() #  이름	국어	영어	수학\n
