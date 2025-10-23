@@ -25,8 +25,6 @@ class Customer:
             total += item.price * count
         print(f"총합: {total}원")
 
-
-
 p1 = Product("사과", 1000)
 p2 = Product("포도", 2000)
 p3 = Product("딸기", 3000)
