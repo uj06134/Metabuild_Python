@@ -85,3 +85,14 @@ print(random.randrange(1,46, 1))
 print(np.random.randint(1, 46, 5))
 # 다차원 난수 배열 생성
 print(np.random.randint(1, 46, (2,2)))
+
+# 중복 O
+list1 = []
+for i in range(10):
+    num = random.randrange(1,11)
+    list1.append(num)
+print(list1)
+
+# 중복 X
+list2 = random.sample(range(1,11), 10)
+print(list2)
