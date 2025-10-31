@@ -6,14 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7eff1fe8-8d9c-4c9e-b5ab-48d3f7e370db" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_matplotlib/.ipynb_checkpoints/Ex06-checkpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_matplotlib/.ipynb_checkpoints/Ex12-checkpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_matplotlib/.ipynb_checkpoints/Ex14_starbucks-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_matplotlib/Ex14_starbucks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/15_matplotlib/Ex14_starbucks.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_matplotlib/file/mCSB_3_container_li.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_matplotlib/file/starbucks.html" beforeDir="false" afterPath="$PROJECT_DIR$/15_matplotlib/file/starbucks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_matplotlib/file/starbucksData.html" beforeDir="false" afterPath="$PROJECT_DIR$/15_matplotlib/file/starbucksData.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_matplotlib/Ex17.py" beforeDir="false" afterPath="$PROJECT_DIR$/15_matplotlib/Ex17.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +82,7 @@
     &quot;Python.Ex15.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex16.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex18.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex_01_book_class.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex_김훈종.executor&quot;: &quot;Run&quot;,
     &quot;Python.Test_김훈종.executor&quot;: &quot;Run&quot;,
@@ -159,6 +153,9 @@
       <workItem from="1761813461436" duration="302000" />
       <workItem from="1761813776648" duration="453000" />
       <workItem from="1761814302384" duration="1273000" />
+      <workItem from="1761870308373" duration="6404000" />
+      <workItem from="1761876785504" duration="31000" />
+      <workItem from="1761876874226" duration="16000" />
     </task>
     <servers />
   </component>
@@ -184,13 +181,14 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_khj$Test_.coverage" NAME="Test_김훈종 Coverage Results" MODIFIED="1761545662872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Python_khj$03_list.coverage" NAME="03_list Coverage Results" MODIFIED="1760935252873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_리스트" />
+    <SUITE FILE_PATH="coverage/Python_khj$Test_.coverage" NAME="Test_김훈종 Coverage Results" MODIFIED="1761545662872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Python_khj$02_tuple.coverage" NAME="02_tuple Coverage Results" MODIFIED="1760939072736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_tuple" />
     <SUITE FILE_PATH="coverage/Python_khj$05_dict_.coverage" NAME="05_dict_김훈종 Coverage Results" MODIFIED="1761022375127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_dictionary" />
     <SUITE FILE_PATH="coverage/Python_khj$01_list.coverage" NAME="01_list Coverage Results" MODIFIED="1760926737097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_리스트" />
     <SUITE FILE_PATH="coverage/Python_khj$Ex01.coverage" NAME="Ex01 Coverage Results" MODIFIED="1761631329403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_matplotlib" />
     <SUITE FILE_PATH="coverage/Python_khj$Ex04.coverage" NAME="Ex04 Coverage Results" MODIFIED="1761635919556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_matplotlib" />
+    <SUITE FILE_PATH="coverage/Python_khj$Ex18.coverage" NAME="Ex18 Coverage Results" MODIFIED="1761876099747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_matplotlib" />
     <SUITE FILE_PATH="coverage/Python_khj$02.coverage" NAME="02 Coverage Results" MODIFIED="1761023360440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/07_module" />
     <SUITE FILE_PATH="coverage/Python_khj$01_dict.coverage" NAME="01_dict Coverage Results" MODIFIED="1760940785415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_dictionary" />
     <SUITE FILE_PATH="coverage/Python_khj$Ex10.coverage" NAME="Ex10 Coverage Results" MODIFIED="1761703747591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_matplotlib" />
@@ -211,7 +209,7 @@
     <SUITE FILE_PATH="coverage/Python_khj$02_list.coverage" NAME="02_list Coverage Results" MODIFIED="1760929115881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03_리스트" />
     <SUITE FILE_PATH="coverage/Python_khj$Ex02.coverage" NAME="Ex02 Coverage Results" MODIFIED="1761633274214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_matplotlib" />
     <SUITE FILE_PATH="coverage/Python_khj$Ex05.coverage" NAME="Ex05 Coverage Results" MODIFIED="1761638748790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_matplotlib" />
-    <SUITE FILE_PATH="coverage/Python_khj$Ex17.coverage" NAME="Ex17 Coverage Results" MODIFIED="1761814487287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_matplotlib" />
+    <SUITE FILE_PATH="coverage/Python_khj$Ex17.coverage" NAME="Ex17 Coverage Results" MODIFIED="1761873110917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_matplotlib" />
     <SUITE FILE_PATH="coverage/Python_khj$Ex11.coverage" NAME="Ex11 Coverage Results" MODIFIED="1761706970629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_matplotlib" />
     <SUITE FILE_PATH="coverage/Python_khj$02_dict.coverage" NAME="02_dict Coverage Results" MODIFIED="1760942130061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_dictionary" />
     <SUITE FILE_PATH="coverage/Python_khj$Ex_01_book_class.coverage" NAME="Ex_01_book_class Coverage Results" MODIFIED="1761275932943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_종합예제" />
